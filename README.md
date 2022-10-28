@@ -1,5 +1,5 @@
 # IBM-Project-46363-1660746051
-                                                                         WEB PHISHING DETECTION
+WEB PHISHING DETECTION
                                                                    
                                                                 
 
